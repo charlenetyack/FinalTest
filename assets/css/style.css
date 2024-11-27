@@ -13,8 +13,6 @@ footer {
     position: relative; /* Le footer n'est pas fixe, il suit le flux normal */
 }
 
-
-/* Design du footer */
 footer {
     background-color: #333;
     color: white;
@@ -26,11 +24,11 @@ footer {
 }
 
 footer a {
-    color: #4caf50;
+    color: #b83232;
     text-decoration: none;
 }
 
 footer a:hover {
     text-decoration: underline;
-}
 
+}
